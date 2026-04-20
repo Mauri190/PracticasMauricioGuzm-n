@@ -1,0 +1,24 @@
+body{
+    background-image: url(../img/fallingcat.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: too right;
+}
+
+p{
+    margin-right: 500px;
+    font-size: 20px;
+}
+
+body{
+    background-image: url(../img/plumas.jpg);
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-attachment: fixed;
+}
+
+p{
+    margin-right: 500px;
+    font-size: 20px;
+}
